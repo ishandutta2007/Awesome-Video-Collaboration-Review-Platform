@@ -33,6 +33,7 @@ Whether you need a turn-key cloud SaaS ecosystem or an on-premise, self-hosted p
 - [🏗️ Key Architectural &amp; Engineering Patterns](#️-key-architectural--engineering-patterns)
 - [🎯 Decision Guide: Which Platform Fits Your Team?](#-decision-guide-which-platform-fits-your-team)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support &amp; Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [📄 License &amp; Community Disclaimer](#-license--community-disclaimer)
 
@@ -241,6 +242,27 @@ Contributions are welcome! To contribute a new tool or update an existing entry:
    - For SaaS tools: include verified starting prices and explicit free tier/trial limits.
    - For Open-Source tools: include the official GitHub star badge linking to the stargazers page.
 3. **Open a Pull Request** with a concise explanation and link to the official project repository or website.
+
+---
+
+## 💖 Support &amp; Sponsorship
+
+A heartfelt thank you to everyone exploring, using, and contributing to this ecosystem guide! Maintaining up-to-date pricing benchmarks, open-source discoveries, and architectural patterns takes dedication.
+
+If you find this repository helpful:
+- ⭐ **Star this repository** to boost visibility and help more filmmakers, editors, and engineers discover it.
+- 🍴 **Fork and contribute** by submitting new tools, feature updates, or workflow corrections.
+- 📢 **Share** this list with fellow post-production teams, video producers, and tech communities.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, research, and updates directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-orange?style=for-the-badge" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
